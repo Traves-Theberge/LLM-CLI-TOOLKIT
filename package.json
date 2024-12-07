@@ -1,0 +1,56 @@
+{
+  "name": "ofca",
+  "version": "1.0.0",
+  "description": "One Function to Call them All - A unified CLI for multiple AI providers",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "demo": "node src/index.js --demo",
+    "dev": "nodemon src/index.js",
+    "check-env": "node scripts/check-env.js",
+    "setup": "npm install && npm run check-env"
+  },
+  "keywords": [
+    "ai",
+    "cli",
+    "openai",
+    "anthropic",
+    "groq",
+    "grok",
+    "mistral",
+    "openrouter",
+    "llm",
+    "chat",
+    "terminal"
+  ],
+  "author": "Traves Theberge",
+  "contributors": [
+    {
+      "name": "Echo Hive",
+      "url": "https://echohive.ai"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.10.2",
+    "@mistralai/mistralai": "^0.0.7",
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "gradient-string": "^2.0.2",
+    "openai": "^4.24.1",
+    "terminal-kit": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/traves-theberge/OFCA"
+  },
+  "bugs": {
+    "url": "https://github.com/traves-theberge/OFCA/issues"
+  },
+  "homepage": "https://github.com/traves-theberge/OFCA#readme"
+}

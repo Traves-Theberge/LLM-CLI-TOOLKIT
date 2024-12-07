@@ -1,0 +1,39 @@
+{
+  "env": {
+    "es2022": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "linebreak-style": ["error", "unix"],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-unused-vars": ["warn"],
+    "no-console": "off",
+    "curly": ["error", "all"],
+    "eqeqeq": ["error", "always"],
+    "no-throw-literal": ["error"],
+    "strict": ["error", "never"],
+    "no-var": ["error"],
+    "dot-notation": ["error"],
+    "no-tabs": ["error"],
+    "no-trailing-spaces": ["error"],
+    "no-use-before-define": ["error"],
+    "no-unneeded-ternary": ["error"],
+    "no-const-assign": ["error"],
+    "prefer-arrow-callback": ["error"],
+    "prefer-const": ["error"],
+    "prefer-spread": ["error"],
+    "prefer-template": ["error"],
+    "yoda": ["error", "never"],
+    "no-duplicate-imports": ["error"]
+  }
+}
