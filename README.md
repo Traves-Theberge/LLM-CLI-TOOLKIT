@@ -1,9 +1,6 @@
-# JavaScript Edition - One Function to Call them All
+# JavaScript Edition - LLM-CLI
 
 <div align="center">
-
-![OFCA Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OFCA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
