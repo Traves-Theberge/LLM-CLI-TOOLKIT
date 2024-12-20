@@ -1,6 +1,5 @@
-# JavaScript Edition - LLM-CLI
+![5467b291-becc-4208-8770-e84333c79903](https://github.com/user-attachments/assets/4e633a22-71b5-434f-b315-7301c54af78d)
 
-<div align="center">
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
