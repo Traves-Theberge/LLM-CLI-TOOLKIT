@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-OFCA is a sophisticated command-line interface that provides seamless integration with multiple AI providers through a unified, elegant interface. Built with modern JavaScript and featuring a stunning powerline-style terminal UI, OFCA makes interacting with various AI models as simple as a single function call.
+The LLM CLI Toolkit is a sophisticated command-line interface that provides seamless integration with multiple AI providers through a unified, elegant interface. Built with modern JavaScript and featuring a stunning powerline-style terminal UI, OFCA makes interacting with various AI models as simple as a single function call.
 
 ## ✨ Features
 
